@@ -1,0 +1,2 @@
+Male: IQR = 34.7 cm
+Female: IQR = 36.4 cm
